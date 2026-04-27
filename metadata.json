@@ -1,0 +1,6 @@
+{
+  "name": "DAMA Maturity Evaluator",
+  "description": "Analyze organization's data maturity scores across DAMA-DMBOK knowledge areas and generate strategic improvement roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
